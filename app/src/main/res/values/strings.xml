@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">"Navigation View - Material Design "</string>
+    <string name="inbox_string">Inbox</string>
+    <string name="starred_string">Starred</string>
+    <string name="sent_mail_string">Send</string>
+    <string name="draft_string">Draft</string>
+    <string name="all_mail_string">Mails</string>
+    <string name="trash_string">Trash</string>
+    <string name="spam_string">Spam</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
